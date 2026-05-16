@@ -1,4 +1,4 @@
-# 
+# vip liquidation sniper bot Plugin | multi-exchange-support + position-sizing is the best liquidation sniper bot, featuring multi-exchange-support and position-sizing. Smart, fast,
 
 
 
